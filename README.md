@@ -1,2 +1,2 @@
 # pyspark_mongodb
-Creating DataFrames with pyspark with data existing from MongoDB.
+Creating DataFrames with pyspark and existing data from MongoDB.
